@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI YouTube Agent 
 
 This is the cleaned, runnable Final V1 for the first local video sample.
@@ -82,3 +83,7 @@ topic -> research -> fact check -> script -> rendering pipeline.
 
 Piper voice generation and YouTube publishing are separate future
 steps and are not required to create the first MP4.
+=======
+# ai-youtube-agent
+AI-powered YouTube automation agent that researches topics, fact-checks information, generates scripts, creates visuals and thumbnails, and renders videos automatically using Python, Ollama, Pillow, and FFmpeg.
+>>>>>>> 43e8f43c4181e145cd633b074056040453eee74a
